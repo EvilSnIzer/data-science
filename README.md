@@ -22,7 +22,4 @@ This project analyzes historical trades joined with the Bitcoin Fear & Greed Ind
 2. Upload `historical_data.csv` and `fear_greed_index.csv`.
 3. Run all cells — charts and CSVs will be generated.
 
-## Submission Instructions
-- Upload this structure to GitHub with notebook shared via Colab link.
-- Email to the specified addresses with subject line:
-  **“Junior Data Scientist – Trader Behavior Insights”**
+
