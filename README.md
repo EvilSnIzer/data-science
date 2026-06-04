@@ -1,4 +1,4 @@
-# Trader Behavior vs Market Sentiment — Submission
+# Trader Behavior vs Market Sentiment 
 
 This project analyzes historical trades joined with the Bitcoin Fear & Greed Index.
 
